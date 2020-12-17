@@ -13,7 +13,7 @@
 To run this script directly from GitHub, just run:
 
 ```
-\curl -fsSL "https://raw.githubusercontent.com/nfgrilo/reset_simulators/master/reset_simulators.sh" | \bash
+\curl -fsSL "https://raw.githubusercontent.com/luky92/reset_simulators/master/reset_simulators.sh" | \bash
 ```
 
 ⚠️ It's recommended to quit Xcode before running the script.

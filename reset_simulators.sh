@@ -17,6 +17,7 @@ iOS=com.apple.CoreSimulator.SimRuntime.iOS
 # > xcrun simctl list
 
 # iPhones
+xcrun simctl create "iPhone 6 (12.4)"              "$iPhone-6"                               "$iOS-12-4"
 xcrun simctl create "iPhone 8 (12.4)"              "$iPhone-8"                               "$iOS-12-4"
 xcrun simctl create "iPhone X (12.4)"              "$iPhone-X"                               "$iOS-12-4"
 xcrun simctl create "iPhone 11 (13.4)"             "$iPhone-11"                              "$iOS-13-4"
